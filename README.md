@@ -12,7 +12,7 @@ A Java Swing-based Smart Elevator System simulation with animated elevator movem
 ## Technologies Used
 - Java
 - Swing
-- OOP Concepts
+- OOPs Concept
 
 ## Author
 Prince Modi
